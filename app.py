@@ -13,7 +13,7 @@ label2 = st.sidebar.text_input('News', '')
 
 
 
-newsapi = NewsApiClient(api_key='f13e245aad384f8f97e7fe525511ec8c')
+newsapi = NewsApiClient(api_key='')
 
 # Define the variable
 news_of = 'bbc-news'
